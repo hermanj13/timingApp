@@ -1,0 +1,20 @@
+{
+  "name": "timing_site",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "hermanj13 <hermanj13@me.com>",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "latest",
+    "express": "^4.13.4",
+    "mongoose": "latest",
+    "yarn": "^0.27.5",
+    "angular": "^1.5.3",
+    "angular-route": "^1.5.3"
+  }
+}
