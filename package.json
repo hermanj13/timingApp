@@ -16,6 +16,6 @@
     "express": "^4.13.4",
     "materialize-css": "^0.100.0",
     "mongoose": "latest",
-    "yarn": "^0.27.5"
+    "yarn": "^1.22.0"
   }
 }
